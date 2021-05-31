@@ -1,5 +1,5 @@
 import java.util.Scanner;
- 
+ //projekti on tehty yksin laitoin vielä tänne
 public class App {
     public static void main(String[] args) {
         System.out.println("--- Hirsipuu ---");
